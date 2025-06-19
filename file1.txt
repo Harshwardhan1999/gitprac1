@@ -1,0 +1,8 @@
+ "This is the first file of my project"
+ It has all the application name which we used frequently
+ Teams
+ SNOW
+ Notepad
+ Wordpad
+ Excel
+ Google
