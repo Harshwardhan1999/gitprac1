@@ -1,0 +1,9 @@
+ "This is the second file of my project"
+ It has list of command I  used in linux
+ ls
+ ls -lrt
+ cd 
+ mv
+ cp
+ grep
+
