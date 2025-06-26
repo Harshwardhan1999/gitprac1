@@ -1,1 +1,2 @@
+Hello User
 This is second file in our git project.
