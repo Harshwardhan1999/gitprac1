@@ -1,2 +1,6 @@
 This is newly file created on branch.
+<<<<<<< HEAD
 this is for testing merge conflict by feature1
+=======
+this is for testing merge conflict by feature2
+>>>>>>> feature2
